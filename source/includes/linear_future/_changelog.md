@@ -1,5 +1,10 @@
 # t(:changelog)
 
+## 2020-08-25
+### REST API
+- [t(:row_comment_symbol)](#symbol-symbol) [t(:changelog_new)]
+- [t(:risklimit)](#t-risklimit) [t(:changelog_new)]
+
 ## 2020-08-19
 ### REST API
 - [t(:marketopeninterest)](#t-marketopeninterest) [t(:changelog_new)]
